@@ -21,4 +21,7 @@ Me dirijo en cualquier lugar donde haya código, donde pueda aplicar mi conocimi
 
 ## ¿Qué tecnologias uso? 
 
+
+## Contactame 
+<a href="https://www.linkedin.com/in/carlos-aldrin-murillo-camacho-2a9229341/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   

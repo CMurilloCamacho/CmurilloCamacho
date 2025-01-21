@@ -1,5 +1,7 @@
 # Hola !  Mi nombre es Carlos Aldrin 😊
 
+# Mi mail es: aldrin.edu.bo@gmail.com
+
 ## ¿Quien soy?
 
 
@@ -20,6 +22,9 @@ Siempre estoy en busqueda de mejorar mis habilidades como desarrolador, me gusta
 Me dirijo en cualquier lugar donde haya código, donde pueda aplicar mi conocimiento, donde me necesiten,  será literalmente un placer para mí trabajar solucionando problemas, me siento muy respaldado con la gran comunidad de desarrolladores de Henry que es el lugar donde me he formado.
 
 ## ¿Qué tecnologias uso? 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
 
 
 ## Contactame 

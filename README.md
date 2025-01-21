@@ -1,6 +1,6 @@
-##Hola !  Mi nombre es Carlos Aldrin 😊
+## Hola !  Mi nombre es Carlos Aldrin 😊
 
-##¿Quien soy?
+## ¿Quien soy?
 
 
 Soy desarrollador web Fullstack,  Tengo experiencias en tecnologías como Nest.js, Node.js, React, Javascript, Typescript, Express.

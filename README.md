@@ -22,9 +22,18 @@ Siempre estoy en busqueda de mejorar mis habilidades como desarrolador, me gusta
 Me dirijo en cualquier lugar donde haya código, donde pueda aplicar mi conocimiento, donde me necesiten,  será literalmente un placer para mí trabajar solucionando problemas, me siento muy respaldado con la gran comunidad de desarrolladores de Henry que es el lugar donde me he formado.
 
 ## ¿Qué tecnologias uso? 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,express,github,html,js,md,mongodb,nodejs,postman,py,react,ts,vscode,kubernetes&perline=14" />
-  </a>
+- NestJs
+- Typescript
+- NodeJs
+- Javascript
+- React
+- Express
+- Docker
+- Postgres
+- gitHub
+- Mongo Db
+
+
 
 
 ## Contactame 
